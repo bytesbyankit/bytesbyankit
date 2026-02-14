@@ -1,15 +1,22 @@
 👋 Hi, I’m Ankit Kumar
 
-MERN / MEAN Developer (JavaScript & TypeScript)  
-Software Engineer with experience in production-grade applications
+Software Developer specializing in MERN and MEAN stacks  
+Experienced in building and maintaining production-grade web applications
 
-I help startups, founders, and agencies with:
-• Bug fixing & production issues  
-• API integrations (payments, auth, third-party APIs)  
-• Admin panels & dashboards  
-• Small features & monthly maintenance  
+I work with startups, founders, and agencies to deliver reliable and maintainable solutions.
 
-Available for short-term tasks and ongoing support.
+---
+
+## 💼 What I Do
+
+I help teams with:
+
+- Debugging and resolving production issues  
+- REST API integrations (payments, authentication, third-party services)  
+- Admin panels and internal dashboards  
+- Feature enhancements and ongoing maintenance  
+
+Available for short-term tasks as well as long-term support.
 
 ---
 
@@ -17,34 +24,40 @@ Available for short-term tasks and ongoing support.
 
 **Frontend:** React, Angular, Tailwind CSS  
 **Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
+**Databases:** MongoDB, MySQL  
 **Languages:** JavaScript, TypeScript, Java  
 **Tools:** Git, Docker, Postman, Figma
 
 ---
 
-## 📌 Freelance Work I Take
+## 📌 Freelance Work I Take On
 
-- Fixing bugs in existing MERN / MEAN codebases  
-- Adding small features or improvements  
-- REST API integrations  
-- Admin panels & internal dashboards  
-- Monthly maintenance and support  
+- Fixing bugs in existing MERN / MEAN applications  
+- Adding or improving small to medium features  
+- API development and integrations  
+- Building admin panels and dashboards  
+- Monthly maintenance and technical support  
 
-I focus on clean fixes, quick turnaround, and clear communication.
+I focus on clean implementations, timely delivery, and clear communication.
 
 ---
 
-## 📂 Selected Projects
+## 📂 Projects
 
-Check my repositories here:  
-👉 https://github.com/ankitjha-webdev?tab=repositories
+You can find my work here:  
+👉 https://github.com/bytesbyankit?tab=repositories
 
-Pinned repositories represent the type of freelance work I do.
+Pinned repositories highlight the type of projects and freelance work I usually handle.
+
+---
+
+## 🌐 Portfolio
+
+👉 https://ankitkumarjha.com
 
 ---
 
 ## 📬 Contact
 
-- Email: ankitkumarcse.hotmail.com
-- LinkedIn: https://linkedin.com/in/ankitkumarcse
+- Email: ankitkumarcse@hotmail.com  
+- LinkedIn: https://linkedin.com/in/bytesbyankit
