@@ -1,6 +1,6 @@
 👋 Hi, I’m Ankit Kumar
 
-Software Developer specializing in MERN and MEAN stacks  
+Software Developer specializing in MERN/MEAN and Java stacks  
 Experienced in building and maintaining production-grade web applications
 
 I work with startups, founders, and agencies to deliver reliable and maintainable solutions.
