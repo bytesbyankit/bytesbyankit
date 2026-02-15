@@ -23,7 +23,7 @@ Available for short-term tasks as well as long-term support.
 ## 🔧 Tech Stack
 
 **Frontend:** React, Angular, Tailwind CSS  
-**Backend:** Node.js, Express  
+**Backend:** Node.js, Express, Java, Spring Boot  
 **Databases:** MongoDB, MySQL  
 **Languages:** JavaScript, TypeScript, Java  
 **Tools:** Git, Docker, Postman, Figma
