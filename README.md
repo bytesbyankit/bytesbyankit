@@ -59,5 +59,5 @@ Pinned repositories highlight the type of projects and freelance work I usually 
 
 ## 📬 Contact
 
-- Email: ankitkumarcse@hotmail.com  
+- Email: bytesbyankit@gmail.com  
 - LinkedIn: https://linkedin.com/in/bytesbyankit
